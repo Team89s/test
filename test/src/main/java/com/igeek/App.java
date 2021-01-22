@@ -10,5 +10,6 @@ public class App {
         System.out.println("========================");
         System.out.println("今天星期五，明天放假！");
         System.out.println("明天星期六，大家回家了！");
+        System.out.println("再见了");
     }
 }
