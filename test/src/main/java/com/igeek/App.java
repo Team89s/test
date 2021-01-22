@@ -12,5 +12,6 @@ public class App {
         System.out.println("明天星期六，大家回家了！");
         System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~");
         System.out.println("dev分支提交");
+        System.out.println("--------dev提交--------");
     }
 }
